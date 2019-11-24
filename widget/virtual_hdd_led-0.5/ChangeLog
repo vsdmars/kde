@@ -1,0 +1,28 @@
+2010-06-22 Christoph Thielecke <crissi99@gmx.de>
+	version increased to 0.5
+	save diskname fixed
+	compile fix for older kde4 versions
+	update devicename after change if disk not found too
+	geometry fixes
+	displaying icon instead plain color added (color only still available) 
+
+2010-06-21 Christoph Thielecke <crissi99@gmx.de>
+	version increased to 0.4
+	option for drawing a black border around led added
+	format parameter count at fscanf fixed
+	code documentation
+	config dialog layout optimized
+	tooltips at config dialog added
+
+2010-06-18 Christoph Thielecke <crissi99@gmx.de>
+	version increased to 0.3
+	option for drawing devicename added
+	layout fixed
+
+2010-06-14 Christoph Thielecke <crissi99@gmx.de>
+	version increased to 0.2
+	proc improved
+	sysfs reading added (default, use user_sysfs in constructor to change)
+
+2010-06-14 Christoph Thielecke <crissi99@gmx.de>
+	initial version 0.1

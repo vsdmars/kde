@@ -1,0 +1,31 @@
+[Desktop Entry]
+Name=virtual_hdd_led
+Name[de]=virtuelle HDD Led
+Name[en_GB]=virtual_hdd_led
+Name[pt]=LED do Disco Virtual
+Name[pt_BR]=virtual_hdd_led
+Name[uk]=Віртуальний індикатор активності
+Name[x-test]=xxvirtual_hdd_ledxx
+Comment=Plasma virtual_hdd_led
+Comment[de]=virtuelle Festplatten-Led
+Comment[en_GB]=Plasma virtual_hdd_led
+Comment[pt]=LED do disco virtual para o Plasma
+Comment[pt_BR]=virtual_hdd_led do Plasma
+Comment[uk]=Віртуальний індикатор активності диска для Плазми
+Comment[x-test]=xxPlasma virtual_hdd_ledxx
+Type=Service
+Icon=drive-harddisk
+
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-Library=plasma_applet_virtual_hdd_led
+X-KDE-PluginInfo-Author=Christoph Thielecke
+X-KDE-PluginInfo-Email=crissi99@gmx.de
+X-KDE-PluginInfo-Name=virtual_hdd_led
+X-KDE-PluginInfo-Version=0.5
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-PlasmoidCategory=System Information
+

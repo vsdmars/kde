@@ -1,0 +1,21 @@
+1. Prerequisites
+    - KDE4.x >= 4.2
+    - kdelibs-dev
+    - kdebase-dev
+    - cmake
+2. Get it running
+    2.1. Kompilation
+	tar xvfj virtual_hdd_led-0.4.tar.bz2
+	cd virtual_hdd_led-0.4
+	cmake -DCMAKE_INSTALL_PREFIX=/usr .
+	make
+    2.2. Installation
+	sudo make install
+	exit
+    2.3. Plasma desktop restart
+	killall plasma-desktop
+	plasma-desktop
+    2.4. Add virtual_hdd_led to the panel/desktop
+	click on cashew - add applets - search hdd - drag it to desktop or double click on it to get in panel
+
+3. Have fun
